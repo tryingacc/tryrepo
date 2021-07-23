@@ -1,1 +1,1 @@
-this is the chapter 1 of git. Now it is the chapter 1 of branch1
+this is the chapter 1 of git. Now this will be merged by my another account
